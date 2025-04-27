@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+tqdm
+scikit-image
+prettytable
+transformers
+pandas
+flask
